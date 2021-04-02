@@ -595,7 +595,7 @@ public class TableStat {
         DropIndex(256), //
         CreateIndex(512), //
         Replace(1024), //
-        Create(1024),
+        Create(2048),
         ; //
 
         public final int mark;
